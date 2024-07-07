@@ -14,9 +14,6 @@
 <img width="227" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/> 
 -->
 
-<!-- 
- [![guokaigdg's GitHub | Stats](https://stats.quine.sh/guokaigdg/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=guokaigdg)
--->
 
 <!-- 关于我 -->
 
