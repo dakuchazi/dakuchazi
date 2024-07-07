@@ -24,20 +24,14 @@
 <!-- 关于我 -->
 
 ## 🎉 About Me
-
 <br />
-
     175cm 75kg
     爱好：撸铁 咖啡 摄影 撸猫 甜妹
 
 
 
-<!-- 
 
 ## 🚌 My GitHub Contributions
-
--->
-
 
 
 
@@ -46,8 +40,8 @@
 
 <!-- 
 
-![](https://github-readme-stats.vercel.app/api?username=guokaigdg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=guokaigdg&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=dakuchazi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dakuchazi&theme=tokyonight&hide_border=false)
 
 -->
 
