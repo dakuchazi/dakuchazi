@@ -7,9 +7,7 @@
     Hi there <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm dakuchazi
 
 <!-- 
-
 ## ⭐️ My GitHub Stats
-
 -->
 
 <!-- <img align="center" alt="guokaigdg's github stats" src="https://github-readme-stats.vercel.app/api?username=guokaigdg&show_icons=true&theme=tokyonight&count_private=true"> 
@@ -18,7 +16,6 @@
 
 <!-- 
  [![guokaigdg's GitHub | Stats](https://stats.quine.sh/guokaigdg/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=guokaigdg)
-
 -->
 
 <!-- 关于我 -->
