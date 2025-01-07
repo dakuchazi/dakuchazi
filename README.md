@@ -43,7 +43,7 @@
 
 ## 💬 Contact Me:
 
-- **📬 Email:** [2320818066@qq.com](230818066@qq.com)
+- **📬 Email:** [hansxu27@gmail.com](hansxu27@gmail.com)
 - **🚀 CSDN:** [大苦茶籽](https://blog.csdn.net/x2320818066)
 - **🐙 Github:** [dakuchazi](https://github.com/dakuchazi)  
 - **💰 掘金:** [大苦茶籽](https://juejin.cn/user/3057075796054328)
